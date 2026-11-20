@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hung Yu (Ken) Tang | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: 60px auto;
+      padding: 0 20px;
+      line-height: 1.7;
+      color: #333;
+    }
+    h1 { margin-bottom: 5px; }
+    h2 { margin-top: 45px; }
+    a { color: #2766a5; }
+    .subtitle { color: #666; }
+    .project {
+      border-bottom: 1px solid #ddd;
+      padding: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Hung Yu (Ken) Tang</h1>
+  <p class="subtitle">
+    Architectural Technology | Construction Estimating
+  </p>
+
+  <p>
+    Architectural Technician graduate from George Brown College
+    with two years of experience in restoration estimating,
+    construction documentation, and project coordination.
+  </p>
+
+  <p>
+    <a href="resume.pdf">Resume</a> |
+    <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  </p>
+
+  <h2>Selected Projects</h2>
+
+  <div class="project">
+    <h3>90 Broadview</h3>
+    <p>Architectural design and technical documentation.</p>
+  </div>
+
+  <div class="project">
+    <h3>Owen Sound</h3>
+    <p>Architectural drawings and design development.</p>
+  </div>
+
+  <div class="project">
+    <h3>Construction Restoration</h3>
+    <p>Drawing reviews, quantity take-offs, and repair scopes.</p>
+  </div>
+
+  <h2>Contact</h2>
+  <p>Toronto, Ontario, Canada</p>
+
+</body>
+</html>
